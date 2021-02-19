@@ -13,6 +13,8 @@ starting_kit/ingestion_program/__pycache__
 starting_kit/image_meta_data
 starting_kit/image_data
 
+starting_kit/output/
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
