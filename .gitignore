@@ -7,8 +7,9 @@
 # website: http://jupyter.org/
 
 starting_kit/ingestion_program/__pycache__
-starting_kit/ingestion_program/__pycache__
-starting_kit/ingestion_program/__pycache__
+starting_kit_cropped/ingestion_program/__pycache__
+
+starting_kit_cropped/cropped_images
 
 starting_kit/image_meta_data
 starting_kit/image_data
