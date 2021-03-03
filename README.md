@@ -24,6 +24,10 @@ The major problem to address is how to convert attention heatmap to predicted bo
 Failure with multiple non-contiguous regions
 <br><br>
 
+Code and experiments details:\
+https://www.kaggle.com/phananhvu/hygieia-evaluation/
+<br>
+
 Instructor: Isabelle Guyon, Kim Gerdes\
 Université Paris Saclay 2021
 
