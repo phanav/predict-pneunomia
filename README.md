@@ -13,7 +13,7 @@ Modified from https://jrzech.medium.com/what-are-radiological-deep-learning-mode
 <br><br>
 
 The 2nd protocol measures trustworthiness with Intersection Over Union of annotated and predicted bounding box.\
-The predicted bounding box is the smallest rectangle holding at leats 95% of activation (following ProtoPNet).\
+The predicted bounding box is defined as the smallest rectangle holding at leats 95% of activation (following ProtoPNet).\
 ![](/img/iou-best1-0652.png)
 Left: target bounding box in red. Middle: heatmap. Right: rectangle holding at least 95% of activation in orange. IOU = 0.65
 
@@ -29,7 +29,7 @@ Code and experiments details:\
 https://www.kaggle.com/phananhvu/hygieia-evaluation/
 <br>
 
-Instructor: Isabelle Guyon, Kim Gerdes\
+Instructors: Isabelle Guyon, Kim Gerdes\
 Université Paris Saclay 2021
 
 
