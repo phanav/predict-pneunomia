@@ -1,4 +1,4 @@
-This project aims to  create a machine learning challengeof predicting pneumonia from chest X-ray images.
+This project aims to  create a machine learning challenge of predicting pneumonia from chest X-ray images.
 
 The original dataset RSNA Pneumonia requires locating the lung opacity region in chest X-ray.\
 We adapt this dataset for a binary classification of Normal vs Lung Opacity.\
