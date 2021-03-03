@@ -25,7 +25,7 @@ Left: target bounding box in red. Middle: heatmap. Right: rectangle holding at l
 Failure with multiple non-contiguous regions
 <br><br>
 
-Code and experiments details:\
+Code and experiment details:\
 https://www.kaggle.com/phananhvu/hygieia-evaluation/
 <br>
 
