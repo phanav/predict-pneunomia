@@ -10,7 +10,7 @@ The 1st protocol assess the trustworthiness of the attention heatmap with propor
 <img src="/img/heatmap-jzech-box.png" width="300">
 Attention weight matrix and bounding box<br>
 Modified from https://jrzech.medium.com/what-are-radiological-deep-learning-models-actually-learning-f97a546c5b98
-
+<br>
 The 2nd protocol measure trustworthiness by Intersection Over Union of annotated and predicted bounding box.\
 The predicted bounding box is defined as the smallest rectangle holding at leats 95% of activation (following ProtoPNet).\
 ![](/img/iou-best1-0652.png)
@@ -22,6 +22,7 @@ The major problem to address is how to convert attention heatmap to predicted bo
 ![](/img/iou-noncontiguous-0313.png)
 Failure with multiple non-contiguous regions
 
+<br>
 Instructor: Isabelle Guyon, Kim Gerdes
 Université Paris Saclay 2021
 
