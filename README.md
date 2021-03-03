@@ -21,6 +21,7 @@ The Intersection Over Union protocol appears to work better then proportion of a
 Nevertheless, this protocol still has some flaws. \
 The major problem to address is how to convert attention heatmap to predicted bounding box.\
 ![](/img/iou-noncontiguous-0313.png)
+Left: target bounding box in red. Middle: heatmap. Right: rectangle holding at least 95% of activation in orange. IOU = 0.31\
 Failure with multiple non-contiguous regions
 <br><br>
 
