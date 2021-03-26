@@ -32,6 +32,8 @@ https://www.kaggle.com/phananhvu/hygieia-evaluation/
 Instructors: Isabelle Guyon, Kim Gerdes\
 Université Paris Saclay 2021
 
+Hygieia cropped image: https://competitions.codalab.org/competitions/29560
+Hygieia tabular: https://competitions.codalab.org/competitions/28158
 
 References:\
 GradCAM: https://arxiv.org/abs/1610.02391 \
